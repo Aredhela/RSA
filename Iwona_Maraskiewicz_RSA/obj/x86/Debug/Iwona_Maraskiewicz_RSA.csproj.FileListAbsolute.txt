@@ -1,0 +1,11 @@
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\MainWindow.baml
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\MainWindow.g.cs
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\App.g.cs
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\Iwona_Maraskiewicz_RSA_MarkupCompile.cache
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\Iwona_Maraskiewicz_RSA.g.resources
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\Iwona_Maraskiewicz_RSA.Properties.Resources.resources
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\Iwona_Maraskiewicz_RSA.csproj.GenerateResource.Cache
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\bin\Debug\Iwona_Maraskiewicz_RSA.exe
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\bin\Debug\Iwona_Maraskiewicz_RSA.pdb
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\Iwona_Maraskiewicz_RSA.exe
+c:\users\aredhel\documents\visual studio 2010\Projects\Iwona_Maraskiewicz_RSA\Iwona_Maraskiewicz_RSA\obj\x86\Debug\Iwona_Maraskiewicz_RSA.pdb

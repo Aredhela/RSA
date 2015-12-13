@@ -1,0 +1,38 @@
+﻿<Window x:Class="Iwona_Maraskiewicz_RSA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RSA" Height="415" Width="525">
+    <Grid>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="textBlock1" Text="p : " VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="32,10,0,0" Name="TextP" VerticalAlignment="Top" Width="120" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,39,0,0" Name="textBlock2" Text="q : " VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="32,39,0,0" Name="TextQ" VerticalAlignment="Top" Width="120" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="281,10,0,0" Name="textBlock3" Text="min : " VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="279,39,0,0" Name="textBlock4" Text="max : " VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="316,7,0,0" Name="TextMin" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="316,36,0,0" Name="TextMax" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="72" HorizontalAlignment="Left" Margin="10,83,0,0" Name="TextOdszyfrowany" VerticalAlignment="Top" Width="197" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,164,0,0" Name="textBlock5" Text="e publiczny : " VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="87,164,0,0" Name="TextEPublicznyPQ" VerticalAlignment="Top" Width="120" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,193,0,0" Name="textBlock6" Text="n publiczny : " VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="87,193,0,0" Name="TextNPublicznyPQ" VerticalAlignment="Top" Width="120" />
+        <TextBlock HorizontalAlignment="Left" Margin="279,225,0,0" Name="textBlock7" Text="d prywatny : " Height="23" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="279,251,0,0" Name="textBlock8" Text="n prywatny : " VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,222,0,0" Name="textBlock9" Text="d prywatny : " VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="87,222,0,0" Name="TextDPrywatnyPQ" VerticalAlignment="Top" Width="120" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,251,0,0" Name="textBlock10" Text="n prywatny : " VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="87,251,0,0" Name="TextNPrywatnyPQ" VerticalAlignment="Top" Width="120" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="279,164,0,0" Name="textBlock11" Text="d publiczny : " VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="279,193,0,0" Name="textBlock12" Text="n publiczny :" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="355,161,0,0" Name="TextDPubliczny" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="355,190,0,0" Name="TextNPubliczny" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="355,219,0,0" Name="TextDPrywatny" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="355,248,0,0" Name="TextNPrywatny" VerticalAlignment="Top" Width="120" />
+        <Button Content="Szyfruj" Height="23" HorizontalAlignment="Left" Margin="139,341,0,0" Name="Szyfruj" VerticalAlignment="Top" Width="105" Click="Szyfruj_Click" />
+        <TextBox Height="72" HorizontalAlignment="Left" Margin="278,83,0,0" Name="TextZaszyfrowany" VerticalAlignment="Top" Width="197" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,68,0,0" Name="textBlock13" Text="Text odszyfrowany : " VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="278,68,0,0" Name="textBlock14" Text="Text zaszyfrowany : " VerticalAlignment="Top" />
+        <Button Content="Deszyfruj" Height="23" HorizontalAlignment="Right" Margin="0,341,120,0" Name="Deszyfruj" VerticalAlignment="Top" Width="105" Click="Deszyfruj_Click" />
+        <Button Content="Generuj klucz" Height="23" HorizontalAlignment="Right" Margin="0,296,120,0" Name="Klucz" VerticalAlignment="Top" Width="244" Click="Klucz_Click" />
+    </Grid>
+</Window>
